@@ -32,15 +32,3 @@ Olá, meu nome é Emanoel Neto, tenho 20 anos e estou cursando Sistemas de Infor
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YeLLj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
